@@ -5,6 +5,6 @@
 (require ts-kata-util/katas/main)
 
 (define katas
-  '())
+  (kata-collection '()))
 
 
