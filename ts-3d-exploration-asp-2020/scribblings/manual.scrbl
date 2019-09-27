@@ -16,7 +16,7 @@ Welcome to the kata collection for @bold{3D Exploration}.
 This is for students and coaches participating in their local scholastic game jams for Winter 2020.
 
 @;TODO: design badges
-@;3d-exploration-badges
+@3d-exploration-badges
 
 @table-of-contents[]
 
