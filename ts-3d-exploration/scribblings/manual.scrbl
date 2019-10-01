@@ -32,5 +32,5 @@ They can be browsed in various ways using the table of contents below.
 
 @(scribblify-collection exploration-katas)
 
-@;TODO, fix path, or change file extension to .rkt
-@; and use @(include-section vr-assets/scribblings/vr-assets)
+@section{VR Assets}
+All of the assets in this @(hyperlink "https://docs.racket-lang.org/vr-assets@vr-assets/index.html" "library") are provided.

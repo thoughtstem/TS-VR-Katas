@@ -15,7 +15,7 @@
 Welcome to the kata collection for @bold{3D Exploration}.
 This is for students and coaches participating in their local scholastic game jams for Winter 2020.
 
-@;TODO: design badges
+@;TODO: change design badges
 @3d-exploration-badges
 
 @table-of-contents[]
@@ -35,9 +35,11 @@ This is for students and coaches participating in their local scholastic game ja
                ocean-katas
                )
 
-@section{Extra Katas}
+@;section{Extra Katas}
+
+
+@section{VR Assets}
+All of the assets in this @(hyperlink "https://docs.racket-lang.org/vr-assets@vr-assets/index.html" "library") are provided.
 
 
 @include-section["game-jam.scrbl"]
-@;TODO, fix path, or change file extension to .rkt
-@; and use @(include-section vr-assets/scribblings/vr-assets)
