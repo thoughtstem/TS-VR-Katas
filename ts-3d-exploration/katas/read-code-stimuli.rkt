@@ -29,8 +29,30 @@
    'ground-objects-3
    (read-prefix "with a large, textured cylinder that is rotated; and a custom colored dodecahedron scaled on one axis. ")
    'ground-objects-4
-   (read-prefix "")
+   (read-prefix "with a sphere that changes color when you click on it.")
    'ground-objects-5
-   (read-prefix "")
+   (read-prefix "with a cylinder that changes color and grows when the pointe enters and changes back in color and size when the pointer exits.")
 
+   'sky-objects-1
+   (read-prefix "with a cone in the sky that has random scale, color, and rotation.")
+   'sky-objects-2
+   (read-prefix "with a higly-transparent, random-colored object and a 3D model, both in the sky.")
+   'sky-objects-3
+   (read-prefix "with some 3D models in the sky.")
+   'sky-objects-4
+   (read-prefix "with a fog-free volcano environment and stars.")
+   'sky-objects-5
+   (read-prefix "with a fog-free foresnt environment that has a dark horizon and sky color; and yellow stars.")
+
+   'particles-1
+   (read-prefix "with particles moving around in the ground.")
+   'particles-2
+   (read-prefix "with big, fast particles moving around in the ground that have a short life and their color cycles through three of them.")
+   'particles-3
+   (read-prefix "with many rain particles spread across the X and Z axis.")
+   'particles-4
+   (read-prefix "with an environment that has an egyptian look, and many sand looking particles floating around.")
+   'particles-5
+   (read-prefix "with a forest environment that has a dark ambient color and medium visibility, as well as several snow particles")
+   
    ))
