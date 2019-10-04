@@ -23,11 +23,11 @@
    (read-prefix "with a tron look where it is hard to see and has many, small hexagons with a high size and rotation variance, and a canyon like ground with a square texture.")
 
    'ground-objects-1
-   (read-prefix "with a sphere on the ground.")
-   'ground-objects-2
    (read-prefix "with a custom colored, semi-transparent, large sphere on the ground.")
-   'ground-objects-3
+   'ground-objects-2
    (read-prefix "with a large, textured cylinder that is rotated; and a custom colored dodecahedron scaled on one axis. ")
+   'ground-objects-3
+   (read-prefix "with three oceans in the ground, one of them much larger than the other and blue of color.")
    'ground-objects-4
    (read-prefix "with a sphere that changes color when you click on it.")
    'ground-objects-5
@@ -54,5 +54,15 @@
    (read-prefix "with an environment that has an egyptian look, and many sand looking particles floating around.")
    'particles-5
    (read-prefix "with a forest environment that has a dark ambient color and medium visibility, as well as several snow particles")
-   
+
+   'animations-1
+   (read-prefix "with a random colored box that continuosly grows and shrinks back to its original size.")
+   'animations-2
+   (read-prefix "with a cone that moves to the center of the scene and back to its original position several times.")
+   'animations-3
+   (read-prefix "with a random colored dodecahedron that slowly grows and shrnks back while rotating.")
+   'animations-4
+   (read-prefix "with an Earth looking spehere rotating around a Sun looking sphere.")
+   'animations-5
+   (read-prefix "with a small sphere rotating around a regular size sphere which is rotating around a very big sphere.")
    ))

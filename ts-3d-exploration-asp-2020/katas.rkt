@@ -7,10 +7,9 @@
          ts-fundamentals/katas
          ts-3d-exploration/katas)
 
-; TODO change if sections change
 (define-kata game-jam
   (recite
    #:in "Tell me about our Final Game Jam!"
    #:out (list "Building an 3D Scene."  
                "In ONE CLASS."
-               "Including: an ENVIRONMENT, GROUND and SKY OBJECTS, PARTICLES, and OCEANS.")))
+               "Including: an ENVIRONMENT, GROUND and SKY OBJECTS, PARTICLES, and ANIMATIONS.")))

@@ -20,13 +20,12 @@ They can be browsed in various ways using the table of contents below.
 
 @(scribblify-collection hello-world-katas)
 
-@;TODO: edit these sections later?
 @(sections-for kata-section
                environment-katas
                ground-objects-katas
                sky-objects-katas
                particles-katas
-               ocean-katas)
+               animations-katas)
                
 @section{All Katas}
 
