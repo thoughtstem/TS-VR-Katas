@@ -20,10 +20,9 @@
 (define-sub-collections exploration-katas
   code-value-katas
   hello-world-katas
-  ;TODO: edit these sections later?
   environment-katas
   ground-objects-katas
   sky-objects-katas
   particles-katas
-  ocean-katas  
+  animations-katas  
   )

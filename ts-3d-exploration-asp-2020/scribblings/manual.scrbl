@@ -26,13 +26,12 @@ This is for students and coaches participating in their local scholastic game ja
 @(render game-jam)
 @(render hello-world-katas)
 
-@;TODO: edit these sections later?
 @(sections-for kata-section
                environment-katas
                ground-objects-katas
                sky-objects-katas
                particles-katas
-               ocean-katas
+               animations-katas
                )
 
 @;section{Extra Katas}
