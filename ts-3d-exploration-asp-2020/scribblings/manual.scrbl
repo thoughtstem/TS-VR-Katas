@@ -1,7 +1,6 @@
 #lang scribble/manual
 
 @(require ts-kata-util/katas/rendering
-          ;ts-kata-util/katas/main
           ts-kata-util/badge-maker/main
           ;ts-kata-util/kata-card/main
           "../katas.rkt"
@@ -18,7 +17,7 @@
 
 @section{Intro Katas}
 
-@(render code-value-katas)
+@(render code-of-awesomeness-katas)
 @(render game-jam)
 @(render hello-world-katas)
 
