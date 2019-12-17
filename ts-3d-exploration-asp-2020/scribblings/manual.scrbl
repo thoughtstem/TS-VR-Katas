@@ -1,13 +1,13 @@
 #lang scribble/manual
 
 @(require ts-kata-util/katas/rendering
-          ;ts-kata-util/katas/main
           ts-kata-util/badge-maker/main
           ;ts-kata-util/kata-card/main
           "../katas.rkt"
           "../rendering.rkt"
           (except-in racket read do)
           ;pict
+          pkg/lib
           )
 
 @title{Exploring 3D Worlds}
@@ -18,7 +18,7 @@
 
 @section{Intro Katas}
 
-@(render code-value-katas)
+@(render code-of-awesomeness-katas)
 @(render game-jam)
 @(render hello-world-katas)
 
@@ -34,7 +34,6 @@
 
 
 @section{VR Assets}
-All of the assets in this @(hyperlink "https://docs.racket-lang.org/vr-assets@vr-assets/index.html" "library") are provided.
-
+All of the assets in this @(hyperlink @(~a (pkg-directory "vr-assets") "/doc/vr-assets/index.html") "library") are provided.
 
 @include-section["game-jam.scrbl"]

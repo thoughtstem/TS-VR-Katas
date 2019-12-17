@@ -18,7 +18,7 @@
          tips))
 
 (define-sub-collections exploration-katas
-  code-value-katas
+  code-of-awesomeness-katas
   hello-world-katas
   environment-katas
   ground-objects-katas
