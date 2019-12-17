@@ -7,6 +7,7 @@
           "../rendering.rkt"
           (except-in racket read do)
           ;pict
+          pkg/lib
           )
 
 @title{Exploring 3D Worlds}
@@ -33,7 +34,6 @@
 
 
 @section{VR Assets}
-All of the assets in this @(hyperlink "https://docs.racket-lang.org/vr-assets@vr-assets/index.html" "library") are provided.
-
+All of the assets in this @(hyperlink @(~a (pkg-directory "vr-assets") "/doc/vr-assets/index.html") "library") are provided.
 
 @include-section["game-jam.scrbl"]
