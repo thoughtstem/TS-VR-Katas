@@ -34,6 +34,6 @@
 
 
 @section{VR Assets}
-All of the assets in this @(hyperlink @(~a (pkg-directory "vr-assets") "/doc/vr-assets/index.html") "library") are provided.
+All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.
 
 @include-section["game-jam.scrbl"]
