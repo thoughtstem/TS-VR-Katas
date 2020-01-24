@@ -7,12 +7,12 @@
            ts-kata-util
            (except-in racket read do))
 
-@title{3d Exploration Katas}
+@title{3d Orbit Katas}
 
-These @(~a (length (kata-collection-katas exploration-katas))) katas pertain to @racket[3d-exploration].
+These @(~a (length (kata-collection-katas orbit-katas))) katas pertain to @racket[3d-orbit].
 They can be browsed in various ways using the table of contents below.
 
-@racketblock[(require ts-3d-exploration/katas)]
+@racketblock[(require ts-3d-orbit/katas)]
 
 @table-of-contents[]
 
@@ -20,16 +20,11 @@ They can be browsed in various ways using the table of contents below.
 
 @(scribblify-collection hello-world-katas)
 
-@(sections-for kata-section
-               environment-katas
-               ground-objects-katas
-               sky-objects-katas
-               particles-katas
-               animations-katas)
+@;(sections-for kata-section)
                
 @section{All Katas}
 
-@(scribblify-collection exploration-katas)
+@(scribblify-collection orbit-katas)
 
 @section{VR Assets}
 All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.
