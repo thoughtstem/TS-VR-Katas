@@ -12,7 +12,7 @@
 
 @title{Exploring 3d Orbits}
 
-@;3d-universe-badges
+@3d-orbit-badges
 
 @table-of-contents[]
 
