@@ -22,7 +22,12 @@
 @(render game-jam)
 @(render hello-world-katas)
 
-@;(sections-for kata-section )
+@(sections-for kata-section
+               orbits-katas
+               star-planet-katas
+               moon-ring-katas
+               star-system-katas
+               space-objects-katas)
 
 @section{VR Assets}
 All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.

@@ -20,7 +20,12 @@ They can be browsed in various ways using the table of contents below.
 
 @(scribblify-collection hello-world-katas)
 
-@;(sections-for kata-section)
+@(sections-for kata-section
+               orbits-katas
+               star-planet-katas
+               moon-ring-katas
+               star-system-katas
+               space-objects-katas)
                
 @section{All Katas}
 

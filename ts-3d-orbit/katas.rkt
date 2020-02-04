@@ -20,5 +20,9 @@
 (define-sub-collections orbit-katas
   code-of-awesomeness-katas
   hello-world-katas
-  
+  orbits-katas
+  star-planet-katas
+  moon-ring-katas
+  star-system-katas
+  space-objects-katas
   )
