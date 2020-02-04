@@ -24,8 +24,8 @@ They can be browsed in various ways using the table of contents below.
                orbits-katas
                star-planet-katas
                moon-ring-katas
-               star-system-katas
-               space-objects-katas)
+               space-objects-katas
+               star-system-katas)
                
 @section{All Katas}
 

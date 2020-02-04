@@ -26,8 +26,8 @@
                orbits-katas
                star-planet-katas
                moon-ring-katas
-               star-system-katas
-               space-objects-katas)
+               space-objects-katas
+               star-system-katas)
 
 @section{VR Assets}
 All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.

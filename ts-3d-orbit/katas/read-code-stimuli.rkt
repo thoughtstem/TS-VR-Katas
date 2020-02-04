@@ -44,7 +44,28 @@
    'moon-ring-5
    (space-prefix "with a star and a planet with two rings. One ring should have a custom color and opacity, and the other one should have a custom texture and rotation.")
 
-
+   'space-objects-1
+   (space-prefix "")
+   'space-objects-2
+   (space-prefix "")
+   'space-objects-3
+   (space-prefix "")
+   'space-objects-4
+   (space-prefix "")
+   'space-objects-5
+   (space-prefix "")
+   
+   'star-system-1
+   (space-prefix "")
+   'star-system-2
+   (space-prefix "")
+   'star-system-3
+   (space-prefix "")
+   'star-system-4
+   (space-prefix "")
+   'star-system-5
+   (space-prefix "")
+   
 
 
 
