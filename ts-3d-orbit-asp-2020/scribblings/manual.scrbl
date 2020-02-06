@@ -23,9 +23,9 @@
 @(render hello-world-katas)
 
 @(sections-for kata-section
-               orbits-katas
-               star-planet-katas
-               moon-ring-katas
+               orbit-katas
+               star-and-planet-katas
+               moon-and-ring-katas
                space-objects-katas
                star-system-katas)
 

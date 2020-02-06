@@ -1,6 +1,6 @@
 #lang racket
 
-(provide orbit-katas
+(provide orbit-lang-katas
          orbit-proto-katas)
 
 (require ts-kata-util/katas/main
@@ -12,17 +12,17 @@
   (merge-collections (lang->kata-collection '3d-orbit)
                      code-values-all))
 
-(define orbit-katas
+(define orbit-lang-katas
   (apply fill-in-tips
          (apply fill-in-stimuli orbit-proto-katas stimuli)
          tips))
 
-(define-sub-collections orbit-katas
+(define-sub-collections orbit-lang-katas
   code-of-awesomeness-katas
   hello-world-katas
-  orbits-katas
-  star-planet-katas
-  moon-ring-katas
-  star-system-katas
+  orbit-katas
+  star-and-planet-katas
+  moon-and-ring-katas
   space-objects-katas
+  star-system-katas
   )
