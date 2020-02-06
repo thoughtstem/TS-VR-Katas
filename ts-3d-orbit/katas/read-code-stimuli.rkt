@@ -60,11 +60,11 @@
    'star-system-2
    (space-prefix "with the sun, Jupiter, and Saturn. Use the appropriate textures, add labels, and give Saturn a ring.")
    'star-system-3
-   (space-prefix "with the sun and all the planets next to each other.")
+   (space-prefix "with a unique star system. Add at least 2 custom planets with custom textures and names.")
    'star-system-4
-   (space-prefix "with a star system.")
+   (space-prefix "with a unique star system. Add at least 2 custom planets with moons and/or rings.")
    'star-system-5
-   (space-prefix "with several stars next to each other.")
+   (space-prefix "with a unique star system. Add at least 2 custom planets and 3 space objects.")
    
 
 
