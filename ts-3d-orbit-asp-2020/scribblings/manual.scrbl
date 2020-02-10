@@ -2,12 +2,9 @@
 
 @(require ts-kata-util/katas/rendering
           ts-kata-util/badge-maker/main
-          ;ts-kata-util/kata-card/main
           "../katas.rkt"
           "../rendering.rkt"
           (except-in racket read do)
-          ;pict
-          pkg/lib
           )
 
 @title{Exploring 3d Orbits}
@@ -32,4 +29,5 @@
 @section{VR Assets}
 All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.
 
-@include-section["game-jam.scrbl"]
+@(include-section ts-camp-materials/scribblings/gameshow-3d-orbit)
+@;(include-section ts-camp-materials/scribblings/3d-game-jam)

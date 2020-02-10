@@ -5,7 +5,8 @@
 (define deps '(
   "https://github.com/thoughtstem/TS-GE-Katas.git?path=ts-kata-util"
   "https://github.com/thoughtstem/TS-MISC-Katas.git?path=ts-fundamentals"
-  "https://github.com/thoughtstem/TS-VR-Katas.git?path=ts-3d-exploration"
+  "https://github.com/thoughtstem/TS-VR-Katas.git?path=ts-3d-exploration" 
+  "https://github.com/thoughtstem/TS-Coach.git?path=ts-camp-materials"
   ;"https://github.com/thoughtstem/vr-assets.git"
   ))
 

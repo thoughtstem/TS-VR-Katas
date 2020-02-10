@@ -18,7 +18,7 @@
    'orbit-2
    (space-prefix "with a star center and different-colored universe and stars.")
    'orbit-3
-   (space-prefix "with a star center and largre dragon stars.")
+   (space-prefix "with a star center and large dragon stars.")
    'orbit-4
    (space-prefix "with a large star center. Move your starting position back.")
 
@@ -29,16 +29,16 @@
    'star-and-planet-3
    (space-prefix "with a star center. Change the star's opacity when clicked. Add a planet whose texture changes when you look directly at it.")
    'star-and-planet-4
-   (space-prefix "with a still Sun center that has an Earth planet which rotates on the y-axis. Add a custom label to both.")
+   (space-prefix "with a non-moving Sun center. Add an Earth planet which rotates on the y-axis. Add a custom label to both.")
    'star-and-planet-5
-   (space-prefix "with Earth and Sun to scale. Customize Earth's position and show the orbit track.")
+   (space-prefix "with Earth and Sun to scale. Customize Earth's position and show the orbit path.")
 
    'moon-and-ring-1
    (space-prefix "with a star center and a planet with a moon.")
    'moon-and-ring-2
-   (space-prefix "with two moons, a planet, and a star. The moons and the planet should have their orbits visible.")  
+   (space-prefix "with two moons, a planet, and a star. The moons and the planet should have a visible orbit path.")  
    'moon-and-ring-3
-   (space-prefix "with a star center and a planet with two moons. Show the orbit tracks for the moons and planet.")
+   (space-prefix "with a star center and a planet with two moons. Show the orbit paths for the moons and planet.")
    'moon-and-ring-4
    (space-prefix "with a star center and a ringed planet.")
    'moon-and-ring-5
@@ -53,12 +53,12 @@
    'space-objects-4
    (space-prefix "with a star center and a planet. Give the planet a small satellite.")
    'space-objects-5
-   (space-prefix "with a star center which has an orbitting planet, which has an orbitting moon, which has an orbitting flying saucer.")
+   (space-prefix "with a star center which has an orbiting planet, which has an orbiting moon, which has an orbiting flying saucer.")
    
    'star-system-1
-   (space-prefix "with the sun and our first 3 planets. Use the appropriate textures, add labels, and give Earth a moon.")
+   (space-prefix "with the Sun and our first 3 planets. Use the appropriate textures, add labels, and give Earth a moon.")
    'star-system-2
-   (space-prefix "with the sun, Jupiter, and Saturn. Use the appropriate textures, add labels, and give Saturn a ring.")
+   (space-prefix "with the Sun, Jupiter, and Saturn. Use the appropriate textures, add labels, and give Saturn a ring.")
    'star-system-3
    (space-prefix "with a unique star system. Add at least 2 custom planets with custom textures and names.")
    'star-system-4
