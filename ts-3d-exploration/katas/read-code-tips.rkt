@@ -44,6 +44,8 @@
 
    'particles-3
    (list "Try these other presets: dust, snow, or rain")
+   'particles-5
+   (list "You can also use sprites as images. Add this line to your code to get access to several sprites: (require fandom-sprites-ge)")
 
    'animations-3
    (list "basic-box also has these keywords: depth, height, and width.")

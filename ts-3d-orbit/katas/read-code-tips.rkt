@@ -17,6 +17,8 @@
 
    'orbit-1
    (list "The default fly-speed is 750.")
+   'orbit-3
+   (list "You can also use sprites as images. Add this line to your code to get access to several sprites: (require fandom-sprites-ge)")
    'orbit-4
    (list "The default starting position is (0 1.6 0), and the default star radius is a random number between 8 and 15.")
 
