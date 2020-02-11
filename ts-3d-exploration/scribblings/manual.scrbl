@@ -1,11 +1,11 @@
 #lang scribble/manual
 
-@(require ts-kata-util/katas/rendering
-          ts-kata-util/katas/main
-           "../katas.rkt"
-           "../rendering.rkt"
-           ts-kata-util
-           (except-in racket read do))
+@(require ;ts-kata-util/katas/rendering
+          ;ts-kata-util/katas/main
+          ;"../katas.rkt"
+          ;"../rendering.rkt"
+          ;ts-kata-util
+          (except-in racket read do))
 
 @(require scribble/extract)
 
