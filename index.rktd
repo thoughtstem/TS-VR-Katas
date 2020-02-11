@@ -5,5 +5,6 @@
 
   ;/unlisted.html data
   ((ts-3d-assets "3D Assets")
-   (ts-3d-exploration "3D Exploration"))
+   (ts-3d-exploration "3D Exploration")
+   (ts-3d-orbit "3D Orbit"))
 )
