@@ -1,13 +1,11 @@
 #lang scribble/manual
 
-@(require @for-label[vr-assets
-                    racket/base]
-          scribble/extract)
+@require[@for-label[vr-assets
+                    racket/base]]
 
-@title{3D Assets}
+@title{vr-assets}
 @author{thoughtstem}
 
-A selection of 3D models
+@defmodule[vr-assets]
 
-@include-extracted[vr-assets/assets]
-
+@(include-section vr-assets/scribblings/vr-assets)
