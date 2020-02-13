@@ -26,8 +26,12 @@
                space-objects-katas
                star-system-katas)
 
-@section{VR Assets}
-All of the assets in this @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "library") are provided.
+@section{Docs & Assets}
+
+For more information on specific functions click  @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-orbit/doc/manual/index.html" "here").
+
+
+Click @(hyperlink "https://katas.thoughtstem.com/VR/ts-3d-assets/doc/manual/index.html" "here") to look at all the assets available.
 
 @(include-section ts-camp-materials/scribblings/gameshow-3d-orbit)
 @;(include-section ts-camp-materials/scribblings/3d-game-jam)
